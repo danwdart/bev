@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,body,main {
+    width: 100%;
+    height: 100%;
+}
+
+main {
+    background-color: black;
+    background: url("https://i.ytimg.com/vi/uQCLndQnzeo/maxresdefault.jpg");
+    color: white;
+}
+
+.player {
+    color: blue;
+    border: 50px dotted red :2t0px dashed cyan;
+    width: 34px;
+    height: 34px;
+    
+    background: url("https://upload.wikimedia.org/wikipedia/commons/a/ad/C_Hat02.png");
+    top: 300px;
+    left: 600px;
+    position: absolute;
+}
